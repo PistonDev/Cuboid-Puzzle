@@ -13,6 +13,8 @@ You must roll the cuboid across platforms and reach the end tile.
 2. Build and run `game.cpp`.
 3. The game loads levels automatically.
 
+4. Alternative : (after updating) just run .exe file.
+
 ### Dependencies
 - raylib libraries are inside the **external/** folder
 - They are included via `resources.h`
