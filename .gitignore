@@ -366,7 +366,7 @@ FodyWeavers.xsd
 *.sln
 *.vcxproj.user
 *.obj
-*.exe
+#*.exe
 build/
 x64/
 Debug/
